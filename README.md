@@ -72,3 +72,4 @@ try that one on your own. Hint... `document.getElementById()` and `.textContent`
 
 #Good Luck! 
 "# rock" 
+"# rock" 
